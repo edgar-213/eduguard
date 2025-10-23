@@ -1,0 +1,15 @@
+EduGuard/
+├── html/
+│   ├── inicio.html (login)
+│   └── principal.html (dashboard)
+├── css/
+│   ├── inicio.css
+│   └── style.css
+├── js/
+│   ├── inicio.js
+│   └── script.js
+└── php/
+    ├── config.php (conexión BD)
+    ├── login.php
+    └── register.php
+    └──check_session.php
