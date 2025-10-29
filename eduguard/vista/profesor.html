@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduGuard - Panel Profesor</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="../css/profesor.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-left">
+            <button class="menu-toggle" onclick="toggleSidebar()">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="logo">
+                <img src="../img/ico.png" class="img2">
+                <span>EduGuard</span>
+            </div>
+        </div>
+        <div class="navbar-right">
+            <button class="theme-toggle" onclick="toggleTheme()">
+                <i class="fas fa-moon"></i>
+            </button>
+            <div class="user-info">
+                <div class="user-avatar" id="userAvatar">P</div>
+                <span id="userName">Cargando...</span>
+            </div>
+            <button class="logout-btn" onclick="logout()">
+                <i class="fas fa-sign-out-alt"></i>
+                <span>Cerrar Sesión</span>
+            </button>
+        </div>
+    </nav>
+
+    <aside class="sidebar" id="sidebar">
+        <div class="menu-item active" onclick="showSection('inicio')">
+            <i class="fas fa-home"></i>
+            <span>Inicio</span>
+        </div>
+        <div class="menu-item" onclick="showSection('cursos')">
+            <i class="fas fa-book"></i>
+            <span>Cursos</span>
+        </div>
+        <div class="menu-item" onclick="showSection('estudiantes')">
+            <i class="fas fa-users"></i>
+            <span>Estudiantes</span>
+        </div>
+        <div class="menu-item" onclick="showSection('notas')">
+            <i class="fas fa-file-alt"></i>
+            <span>Notas</span>
+        </div>
+        <div class="menu-item" onclick="showSection('anuncios')">
+            <i class="fas fa-bullhorn"></i>
+            <span>Anuncios</span>
+        </div>
+        <div class="menu-item" onclick="showSection('material')">
+            <i class="fas fa-folder-open"></i>
+            <span>Material Didáctico</span>
+        </div>
+        <div class="menu-item" onclick="showSection('chat')">
+            <i class="fas fa-comments"></i>
+            <span>Chat</span>
+        </div>
+        <div class="menu-item" onclick="showSection('configuracion')">
+            <i class="fas fa-cog"></i>
+            <span>Configuración</span>
+        </div>
+    </aside>
+
+    <main class="main-content" id="mainContent">
+        <section class="section active" id="inicio">
+            <div class="section-header">
+                <h1 class="section-title">Panel Principal</h1>
+                <p class="section-subtitle">Resumen de tu actividad académica</p>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-icon blue">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h3 id="totalEstudiantes">0</h3>
+                        <p>Total Estudiantes</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon green">
+                        <i class="fas fa-book"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h3 id="totalCursos">0</h3>
+                        <p>Cursos Activos</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon orange">
+                        <i class="fas fa-envelope"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h3 id="mensajesNuevos">0</h3>
+                        <p>Mensajes Nuevos</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon purple">
+                        <i class="fas fa-chart-line"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h3 id="promedioGeneral">0.0</h3>
+                        <p>Promedio General</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-card">
+                <div class="card-header">
+                    <h2 class="card-title">Rendimiento por Curso</h2>
+                </div>
+                <div class="chart-container">
+                    <canvas id="performanceChart"></canvas>
+                </div>
+            </div>
+
+            <div class="content-card">
+                <div class="card-header">
+                    <h2 class="card-title">Últimas Notas Publicadas</h2>
+                </div>
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Estudiante</th>
+                                <th>Curso</th>
+                                <th>Evaluación</th>
+                                <th>Nota</th>
+                                <th>Fecha</th>
+                            </tr>
+                        </thead>
+                        <tbody id="ultimasNotas">
+                            <tr>
+                                <td colspan="5" style="text-align: center;">Cargando datos...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <section class="section" id="cursos">
+            <div class="section-header">
+                <h1 class="section-title">Mis Cursos</h1>
+                <p class="section-subtitle">Gestiona tus cursos asignados</p>
+            </div>
+            <div id="listaCursos" class="stats-grid"></div>
+        </section>
+
+        <section class="section" id="estudiantes">
+            <div class="section-header">
+                <h1 class="section-title">Estudiantes</h1>
+                <p class="section-subtitle">Listado completo de tus estudiantes</p>
+            </div>
+
+            <div class="content-card">
+                <div class="card-header">
+                    <h2 class="card-title">Filtros</h2>
+                </div>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+                    <select class="form-control" id="filtroCurso" onchange="filtrarEstudiantes()">
+                        <option value="">Todos los cursos</option>
+                    </select>
+                    <input type="text" class="form-control" id="buscarEstudiante" placeholder="Buscar por nombre..." oninput="filtrarEstudiantes()">
+                </div>
+            </div>
+
+            <div class="content-card">
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Nombre</th>
+                                <th>Email</th>
+                                <th>Grado</th>
+                                <th>Promedio</th>
+                                <th>Estado</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tablaEstudiantes">
+                            <tr>
+                                <td colspan="5" style="text-align: center;">Cargando estudiantes...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <section class="section" id="notas">
+            <div class="section-header">
+                <h1 class="section-title">Gestión de Notas</h1>
+                <p class="section-subtitle">Registra y modifica calificaciones</p>
+            </div>
+
+            <div class="content-card">
+                <div class="card-header">
+                    <h2 class="card-title">Registrar Nueva Nota</h2>
+                </div>
+                <form id="formNotas" onsubmit="guardarNota(event)">
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+                        <div class="form-group">
+                            <label>Curso</label>
+                            <select class="form-control" id="notaCurso" required onchange="cargarEstudiantesPorCurso()">
+                                <option value="">Seleccionar...</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Estudiante</label>
+                            <select class="form-control" id="notaEstudiante" required>
+                                <option value="">Primero selecciona un curso</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Tipo de Evaluación</label>
+                            <select class="form-control" id="tipoEvaluacion" required>
+                                <option value="examen">Examen</option>
+                                <option value="practica">Práctica</option>
+                                <option value="tarea">Tarea</option>
+                                <option value="proyecto">Proyecto</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Título</label>
+                            <input type="text" class="form-control" id="notaTitulo" placeholder="Ej: Examen Parcial" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Nota (0-20)</label>
+                            <input type="number" class="form-control" id="notaValor" min="0" max="20" step="0.5" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Fecha</label>
+                            <input type="date" class="form-control" id="notaFecha" required>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-save"></i>
+                        Guardar Nota
+                    </button>
+                </form>
+            </div>
+        </section>
+
+        <section class="section" id="anuncios">
+            <div class="section-header">
+                <h1 class="section-title">Anuncios</h1>
+                <p class="section-subtitle">Comunica información importante</p>
+            </div>
+
+            <div class="content-card">
+                <div class="card-header">
+                    <h2 class="card-title">Crear Nuevo Anuncio</h2>
+                </div>
+                <form id="formAnuncio" onsubmit="publicarAnuncio(event)">
+                    <div class="form-group">
+                        <label>Título del Anuncio</label>
+                        <input type="text" class="form-control" id="anuncioTitulo" placeholder="Ej: Examen Final - Matemáticas" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Descripción</label>
+                        <textarea class="form-control" id="anuncioDescripcion" placeholder="Escribe los detalles del anuncio..." required></textarea>
+                    </div>
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+                        <div class="form-group">
+                            <label>Tipo</label>
+                            <select class="form-control" id="anuncioTipo">
+                                <option value="evento">Evento</option>
+                                <option value="academico">Académico</option>
+                                <option value="actividad">Actividad</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Fecha del Evento</label>
+                            <input type="date" class="form-control" id="anuncioFecha">
+                        </div>
+                        <div class="form-group">
+                            <label>Destacar</label>
+                            <select class="form-control" id="anuncioDestacado">
+                                <option value="0">No</option>
+                                <option value="1">Sí</option>
+                            </select>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-bullhorn"></i>
+                        Publicar Anuncio
+                    </button>
+                </form>
+            </div>
+
+            <div class="content-card">
+                <div class="card-header">
+                    <h2 class="card-title">Anuncios Publicados</h2>
+                </div>
+                <div id="listaAnuncios">
+                    <p style="text-align: center; color: var(--text-secondary);">Cargando anuncios...</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="section" id="material">
+            <div class="section-header">
+                <h1 class="section-title">Material Didáctico</h1>
+                <p class="section-subtitle">Sube recursos para tus estudiantes</p>
+            </div>
+
+            <div class="content-card">
+                <div class="card-header">
+                    <h2 class="card-title">Subir Nuevo Material</h2>
+                </div>
+                <form id="formMaterial" onsubmit="subirMaterial(event)">
+                    <div class="form-group">
+                        <label>Nombre del Material</label>
+                        <input type="text" class="form-control" id="materialNombre" placeholder="Ej: Guía de Ecuaciones" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Descripción</label>
+                        <textarea class="form-control" id="materialDescripcion" placeholder="Describe el contenido..." required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>Curso</label>
+                        <select class="form-control" id="materialCurso" required>
+                            <option value="">Seleccionar curso...</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Archivo (PDF, Imágenes, Videos)</label>
+                        <div class="file-upload" onclick="document.getElementById('fileInput').click()">
+                            <i class="fas fa-cloud-upload-alt" style="font-size: 3rem; color: var(--primary); margin-bottom: 1rem;"></i>
+                            <p>Haz clic para seleccionar archivo</p>
+                            <small style="color: var(--text-secondary);">PDF, JPG, PNG, MP4, ZIP (Máx. 50MB)</small>
+                            <input type="file" id="fileInput" accept=".pdf,.jpg,.jpeg,.png,.mp4,.doc,.docx,.ppt,.pptx,.zip" required>
+                        </div>
+                        <div id="fileName" style="margin-top: 1rem; color: var(--primary);"></div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-upload"></i>
+                        Subir Material
+                    </button>
+                </form>
+            </div>
+
+            <div class="content-card">
+                <div class="card-header">
+                    <h2 class="card-title">Materiales Subidos</h2>
+                </div>
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Nombre</th>
+                                <th>Curso</th>
+                                <th>Tipo</th>
+                                <th>Tamaño</th>
+                                <th>Fecha</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tablaMateriales">
+                            <tr>
+                                <td colspan="5" style="text-align: center;">Cargando materiales...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <section class="section" id="chat">
+            <div class="section-header">
+                <h1 class="section-title">Chat EduGuard</h1>
+                <p class="section-subtitle">Comunicación con alumnos y asistente IA</p>
+            </div>
+
+            <div class="chat-tabs">
+                <button class="chat-tab active" onclick="mostrarChatTab('alumnos')">
+                    <i class="fas fa-user-graduate"></i> Chat con Alumnos
+                </button>
+                <button class="chat-tab" onclick="mostrarChatTab('ia')">
+                    <i class="fas fa-robot"></i> Asistente IA
+                </button>
+            </div>
+
+            <!-- Chat con Alumnos -->
+            <div id="chatAlumnos" class="chat-panel active">
+                <div class="content-card" style="height: calc(100vh - 300px); display: flex; flex-direction: column;">
+                    <div class="card-header">
+                        <h3 class="card-title">Conversaciones con Alumnos</h3>
+                        <button class="btn btn-primary btn-sm" onclick="abrirModalBuscarAlumno()">
+                            <i class="fas fa-search"></i> Buscar Alumno
+                        </button>
+                    </div>
+                    
+                    <div style="display: flex; height: 100%;">
+                        <!-- Lista de conversaciones -->
+                        <div style="width: 350px; border-right: 1px solid var(--border); overflow-y: auto;">
+                            <div id="listaConversaciones" style="padding: 1rem;">
+                                <p style="text-align: center; color: var(--text-secondary);">Cargando conversaciones...</p>
+                            </div>
+                        </div>
+                        
+                        <!-- Área de chat -->
+                        <div style="flex: 1; display: flex; flex-direction: column;">
+                            <div id="chatAlumnoHeader" class="chat-header">
+                                <h4 id="nombreAlumnoActivo">Selecciona una conversación</h4>
+                            </div>
+                            
+                            <div id="mensajesAlumno" style="flex: 1; overflow-y: auto; padding: 1rem; background: var(--bg-card); border-radius: 8px; margin-bottom: 1rem;">
+                                <div class="empty-state">
+                                    <i class="fas fa-comments"></i>
+                                    <p>Selecciona una conversación para ver los mensajes</p>
+                                </div>
+                            </div>
+                            
+                            <form id="formChatAlumno" onsubmit="enviarMensajeAlumno(event)" style="display: flex; gap: 0.5rem;">
+                                <input type="text" class="form-control" id="mensajeAlumnoInput" placeholder="Escribe un mensaje..." disabled>
+                                <button type="submit" class="btn btn-primary" disabled id="btnEnviarAlumno">
+                                    <i class="fas fa-paper-plane"></i>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chat IA -->
+            <div id="chatIA" class="chat-panel">
+                <div class="content-card" style="height: calc(100vh - 300px); display: flex; flex-direction: column;">
+                    <div class="card-header">
+                        <h3 class="card-title">Asistente Virtual</h3>
+                        <button class="btn btn-primary btn-sm" onclick="limpiarChatIA()">
+                            <i class="fas fa-trash"></i> Limpiar
+                        </button>
+                    </div>
+                    
+                    <div id="chatMessages" style="flex: 1; overflow-y: auto; padding: 1rem; background: var(--bg-card); border-radius: 8px; margin-bottom: 1rem;">
+                        <div class="message bot-message">
+                            <div class="message-content">
+                                <p>¡Hola! Soy tu asistente educativo. ¿En qué puedo ayudarte hoy?</p>
+                            </div>
+                            <div class="message-time">Ahora</div>
+                        </div>
+                    </div>
+                    
+                    <div class="chat-input-container">
+                        <div class="chat-input-wrapper">
+                            <input type="text" id="chatInput" placeholder="Escribe tu mensaje aquí..." class="chat-input">
+                            <button id="sendButton" class="send-button">
+                                <i class="fas fa-paper-plane"></i>
+                            </button>
+                        </div>
+                        <div class="chat-options">
+                            <button class="chat-option-btn" id="emojiButton">
+                                <i class="fas fa-smile"></i>
+                            </button>
+                            <button class="chat-option-btn" id="attachButton">
+                                <i class="fas fa-paperclip"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section" id="configuracion">
+            <div class="section-header">
+                <h1 class="section-title">Configuración</h1>
+                <p class="section-subtitle">Administra tu perfil</p>
+            </div>
+
+            <div class="content-card">
+                <div class="card-header">
+                    <h2 class="card-title">Información Personal</h2>
+                </div>
+                <form id="formPerfil" onsubmit="actualizarPerfil(event)">
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
+                        <div class="form-group">
+                            <label>Nombre Completo</label>
+                            <input type="text" class="form-control" id="perfilNombre" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Email</label>
+                            <input type="email" class="form-control" id="perfilEmail" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Teléfono</label>
+                            <input type="tel" class="form-control" id="perfilTelefono">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Biografía</label>
+                        <textarea class="form-control" id="perfilBio" placeholder="Cuéntanos sobre ti..."></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-save"></i>
+                        Guardar Cambios
+                    </button>
+                </form>
+            </div>
+
+            <div class="content-card">
+                <div class="card-header">
+                    <h2 class="card-title">Cambiar Contraseña</h2>
+                </div>
+                <form id="formPassword" onsubmit="cambiarPassword(event)">
+                    <div class="form-group">
+                        <label>Contraseña Actual</label>
+                        <input type="password" class="form-control" id="passwordActual" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Nueva Contraseña</label>
+                        <input type="password" class="form-control" id="passwordNueva" required minlength="8">
+                    </div>
+                    <div class="form-group">
+                        <label>Confirmar Nueva Contraseña</label>
+                        <input type="password" class="form-control" id="passwordConfirm" required minlength="8">
+                    </div>
+                    <button type="submit" class="btn btn-warning">
+                        <i class="fas fa-key"></i>
+                        Cambiar Contraseña
+                    </button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <div class="modal" id="modalGrupo">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Crear Nuevo Grupo</h2>
+                <button class="close-modal" onclick="cerrarModal('modalGrupo')">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <form onsubmit="guardarGrupo(event)">
+                <div class="form-group">
+                    <label>Nombre del Grupo</label>
+                    <input type="text" class="form-control" id="grupoNombre" placeholder="Ej: Matemáticas 5to A" required>
+                </div>
+                <div class="form-group">
+                    <label>Descripción</label>
+                    <textarea class="form-control" id="grupoDescripcion" placeholder="Descripción del grupo..."></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-plus"></i>
+                    Crear Grupo
+                </button>
+            </form>
+        </div>
+    </div>
+    <script src="../js/profesor.js"></script>
+</body>
+</html>

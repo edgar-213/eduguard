@@ -1,0 +1,1122 @@
+[2025-10-25 23:47:48] API Request: /eduguard/php/profesor_api.php
+[2025-10-25 23:47:48] Action: none
+[2025-10-25 23:48:13] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-25 23:48:13] Action: none
+[2025-10-25 23:50:10] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-25 23:50:10] Action: none
+[2025-10-25 23:50:17] API Request: /eduguard/php/profesor_api.php
+[2025-10-25 23:50:17] Action: none
+[2025-10-25 23:50:20] API Request: /eduguard/php/profesor_api.php
+[2025-10-25 23:50:20] Action: none
+[2025-10-25 23:50:27] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-25 23:50:27] Action: none
+[2025-10-25 23:50:30] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-25 23:50:30] Action: none
+[2025-10-25 23:51:09] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-25 23:51:09] Action: none
+[2025-10-25 23:53:52] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-25 23:53:52] Action: none
+[2025-10-25 23:53:52] API Request: /eduguard/php/profesor_api.php../php/profesor_api.php?action=get_stats
+[2025-10-25 23:53:52] Action: none
+[2025-10-25 23:56:06] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-25 23:56:06] Action: none
+[2025-10-25 23:58:53] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-25 23:58:53] Action: none
+[2025-10-25 23:58:53] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-25 23:58:53] Action: none
+[2025-10-25 23:58:53] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-25 23:58:53] Action: none
+[2025-10-25 23:58:53] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-25 23:58:53] Action: none
+[2025-10-25 23:58:53] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-25 23:58:53] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-25 23:58:53] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-25 23:58:53] Action: none
+[2025-10-25 23:58:53] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-25 23:58:53] Action: none
+[2025-10-25 23:58:53] Action: none
+[2025-10-25 23:58:53] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-25 23:58:53] Action: none
+[2025-10-25 23:59:23] API Request: /eduguard/php/profesor_api.php?action=create_anuncio
+[2025-10-25 23:59:23] Action: none
+[2025-10-25 23:59:23] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-25 23:59:23] Action: none
+[2025-10-26 00:00:02] API Request: /eduguard/php/profesor_api.php?action=create_grupo
+[2025-10-26 00:00:02] Action: none
+[2025-10-26 00:00:02] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 00:00:02] Action: none
+[2025-10-26 00:00:04] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:04] Action: none
+[2025-10-26 00:00:09] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:09] Action: none
+[2025-10-26 00:00:09] API Request: /eduguard/php/profesor_api.php?action=send_mensaje_grupo
+[2025-10-26 00:00:09] Action: none
+[2025-10-26 00:00:09] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:09] Action: none
+[2025-10-26 00:00:14] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:14] Action: none
+[2025-10-26 00:00:19] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:19] Action: none
+[2025-10-26 00:00:24] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:24] Action: none
+[2025-10-26 00:00:29] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:29] Action: none
+[2025-10-26 00:00:34] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:34] Action: none
+[2025-10-26 00:00:39] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:39] Action: none
+[2025-10-26 00:00:44] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:44] Action: none
+[2025-10-26 00:00:49] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:49] Action: none
+[2025-10-26 00:00:54] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:54] Action: none
+[2025-10-26 00:00:59] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:00:59] Action: none
+[2025-10-26 00:01:04] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:01:04] Action: none
+[2025-10-26 00:01:09] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:01:09] Action: none
+[2025-10-26 00:01:14] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:01:14] Action: none
+[2025-10-26 00:01:19] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:01:19] Action: none
+[2025-10-26 00:01:24] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:01:24] Action: none
+[2025-10-26 00:01:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:01:58] Action: none
+[2025-10-26 00:02:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:02:58] Action: none
+[2025-10-26 00:03:13] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_grupo&grupo_id=7
+[2025-10-26 00:03:13] Action: none
+[2025-10-26 00:03:35] API Request: /eduguard/php/profesor_api.php?action=delete_anuncio&id=5
+[2025-10-26 00:03:35] Action: none
+[2025-10-26 00:03:35] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 00:03:35] Action: none
+[2025-10-26 00:04:07] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 00:04:07] Action: none
+[2025-10-26 00:04:07] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 00:04:07] Action: none
+[2025-10-26 00:04:07] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 00:04:07] Action: none
+[2025-10-26 00:04:07] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 00:04:07] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 00:04:07] Action: none
+[2025-10-26 00:04:07] API Request: /eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 00:04:07] Action: none
+[2025-10-26 00:04:07] Action: none
+[2025-10-26 00:04:07] Action: none
+[2025-10-26 00:04:07] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 00:04:07] Action: none
+[2025-10-26 00:04:07] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 00:04:07] Action: none
+[2025-10-26 00:04:07] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 00:04:07] Action: none
+[2025-10-26 00:05:22] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 00:05:22] Action: none
+[2025-10-26 00:05:22] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 00:05:22] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 00:05:22] Action: none
+[2025-10-26 00:05:22] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 00:05:22] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 00:05:22] Action: none
+[2025-10-26 00:05:22] Action: none
+/eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 00:05:22] Action: none
+[2025-10-26 00:05:22] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 00:05:22] Action: none
+[2025-10-26 00:05:22] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 00:05:22] Action: none
+[2025-10-26 00:05:22] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 00:05:22] Action: none
+[2025-10-26 00:08:37] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 00:08:37] Action: none
+[2025-10-26 00:08:37] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 00:08:37] Action: none
+[2025-10-26 00:08:37] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 00:08:37] Action: none
+[2025-10-26 00:08:37] API Request: /eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 00:08:37] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 00:08:37] Action: none
+[2025-10-26 00:08:37] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 00:08:37] Action: none
+[2025-10-26 00:08:37] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 00:08:37] Action: none
+[2025-10-26 00:08:37] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 00:08:37] Action: none
+[2025-10-26 00:08:37] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 00:08:37] Action: none
+[2025-10-26 00:08:37] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 00:08:37] Action: none
+[2025-10-26 00:09:12] API Request: /eduguard/php/profesor_api.php?action=create_materia
+[2025-10-26 00:09:12] Action: none
+[2025-10-26 00:09:12] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 00:09:12] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 00:09:12] Action: none
+[2025-10-26 00:09:12] Action: none
+[2025-10-26 00:09:20] API Request: /eduguard/php/profesor_api.php?action=add_estudiantes_to_materia
+[2025-10-26 00:09:20] Action: none
+[2025-10-26 00:09:20] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 00:09:20] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 00:09:20] Action: none
+[2025-10-26 00:09:20] Action: none
+[2025-10-26 00:09:40] API Request: /eduguard/php/profesor_api.php?action=add_estudiantes_to_materia
+[2025-10-26 00:09:40] Action: none
+[2025-10-26 00:09:40] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 00:09:40] API Request: /eduguard/php/profesor_api.php?action=get_stats
+as
+[2025-10-26 00:09:40] Action: none
+[2025-10-26 00:09:40] Action: none
+[2025-10-26 00:09:40] Action: none
+[2025-10-26 00:09:54] API Request: /eduguard/php/profesor_api.php?action=add_estudiantes_to_materia
+[2025-10-26 00:09:54] Action: none
+[2025-10-26 00:09:54] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 00:09:54] Action: none
+[2025-10-26 00:09:54] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 00:09:54] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 00:09:54] Action: none
+[2025-10-26 00:40:08] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 00:40:08] Action: none
+[2025-10-26 00:40:08] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 00:40:08] Action: none
+[2025-10-26 00:40:08] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 00:40:08] Action: none
+[2025-10-26 00:40:08] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+tes
+[2025-10-26 00:40:08] Action: none
+[2025-10-26 00:40:08] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 00:40:08] Action: none
+[2025-10-26 00:40:08] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 00:40:08] Action: none
+[2025-10-26 00:40:08] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 00:40:08] Action: none
+[2025-10-26 00:40:08] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 00:40:08] Action: none
+[2025-10-26 00:40:08] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 00:40:08] Action: none
+[2025-10-26 00:40:37] API Request: /eduguard/php/profesor_api.php?action=send_chat_message
+[2025-10-26 00:40:37] Action: none
+[2025-10-26 00:40:43] API Request: /eduguard/php/profesor_api.php?action=send_chat_message
+[2025-10-26 00:40:43] Action: none
+[2025-10-26 00:42:06] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes&materia_id=7
+[2025-10-26 00:42:06] Action: none
+[2025-10-26 00:42:21] API Request: /eduguard/php/profesor_api.php?action=update_profile
+[2025-10-26 00:42:21] Action: none
+[2025-10-26 00:48:47] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 00:48:47] Action: none
+[2025-10-26 00:48:47] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 00:48:47] Action: none
+[2025-10-26 00:48:47] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 00:48:47] Action: none
+[2025-10-26 00:48:47] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 00:48:47] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 00:48:47] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 00:48:47] Action: none
+[2025-10-26 00:48:47] API Request: [2025-10-26 00:48:47] Action: none
+on=get_all_estudiantes
+[2025-10-26 00:48:47] Action: none
+[2025-10-26 00:48:47] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 00:48:47] Action: none
+[2025-10-26 00:48:47] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 00:48:47] Action: none
+[2025-10-26 00:48:47] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 00:48:47] Action: none
+[2025-10-26 00:48:47] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:48:47] Action: none
+[2025-10-26 00:48:49] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:48:49] Action: none
+[2025-10-26 00:48:51] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:48:51] Action: none
+[2025-10-26 00:48:56] API Request: /eduguard/php/profesor_api.php?action=buscar_alumnos_chat&termino=ser
+[2025-10-26 00:48:56] Action: none
+[2025-10-26 00:49:01] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:49:01] Action: none
+[2025-10-26 00:49:11] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:49:11] Action: none
+[2025-10-26 00:49:21] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:49:21] Action: none
+[2025-10-26 00:49:31] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:49:31] Action: none
+[2025-10-26 00:49:41] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:49:41] Action: none
+[2025-10-26 00:49:50] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 00:49:50] Action: none
+[2025-10-26 00:49:50] API Request: /eduguard/php/profesor_api.php?action=get_chat_history
+[2025-10-26 00:49:50] Action: none
+[2025-10-26 00:49:50] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 00:49:50] Action: none
+[2025-10-26 00:49:50] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 00:49:50] Action: none
+[2025-10-26 00:49:50] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 00:49:50] Action: none
+[2025-10-26 00:49:50] API Request: /eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 00:49:50] Action: none
+[2025-10-26 00:49:50] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 00:49:50] Action: none
+[2025-10-26 00:49:50] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 00:49:50] Action: none
+[2025-10-26 00:49:50] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 00:49:50] Action: none
+[2025-10-26 00:49:50] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 00:49:50] Action: none
+/eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:49:50] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 00:49:50] Action: none
+[2025-10-26 00:49:53] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:49:53] Action: none
+[2025-10-26 00:56:43] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 00:56:43] Action: none
+[2025-10-26 00:56:43] Action: none
+[2025-10-26 00:56:43] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 00:56:43] Action: none
+[2025-10-26 00:56:43] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 00:56:43] Action: none
+[2025-10-26 00:56:43] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 00:56:43] API Request: /eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 00:56:43] API Request: [2025-10-26 00:56:43] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 00:56:43] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 00:56:43] Action: none
+[2025-10-26 00:56:43] Action: none
+[2025-10-26 00:56:43] Action: none
+[2025-10-26 00:56:43] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 00:56:43] Action: none
+[2025-10-26 00:56:43] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 00:56:43] Action: none
+[2025-10-26 00:56:43] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:56:43] Action: none
+[2025-10-26 00:56:47] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:56:47] Action: none
+[2025-10-26 00:56:50] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=9
+[2025-10-26 00:56:50] Action: none
+[2025-10-26 00:56:54] API Request: /eduguard/php/profesor_api.php?action=send_mensaje_alumno
+[2025-10-26 00:56:54] Action: none
+[2025-10-26 00:56:54] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=9
+[2025-10-26 00:56:54] Action: none
+[2025-10-26 00:56:54] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:56:54] Action: none
+[2025-10-26 00:56:55] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=9
+[2025-10-26 00:56:55] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:56:55] Action: none
+[2025-10-26 00:56:55] Action: none
+[2025-10-26 00:57:00] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:57:00] Action: none
+[2025-10-26 00:57:10] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:57:10] Action: none
+[2025-10-26 00:57:12] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:57:12] Action: none
+[2025-10-26 00:57:17] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:57:17] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:57:17] Action: none
+[2025-10-26 00:57:17] Action: none
+[2025-10-26 00:57:22] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:57:22] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:57:22] Action: none
+[2025-10-26 00:57:22] Action: none
+[2025-10-26 00:57:27] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 00:57:27] Action: none
+[2025-10-26 00:57:27] Action: none
+[2025-10-26 00:57:32] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:57:32] Action: none
+[2025-10-26 00:57:32] Action: none
+[2025-10-26 00:57:37] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:57:37] Action: none
+[2025-10-26 00:57:42] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:57:42] Action: none
+[2025-10-26 00:57:42] Action: none
+[2025-10-26 00:57:47] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:57:47] Action: none
+[2025-10-26 00:57:52] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:57:52] Action: none
+[2025-10-26 00:57:52] Action: none
+[2025-10-26 00:57:57] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:57:57] Action: none
+[2025-10-26 00:58:02] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:58:02] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:58:02] Action: none
+[2025-10-26 00:58:02] Action: none
+[2025-10-26 00:58:07] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 00:58:07] Action: none
+[2025-10-26 00:58:07] Action: none
+[2025-10-26 00:58:12] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:58:12] Action: none
+[2025-10-26 00:58:16] API Request: /eduguard/php/profesor_api.php?action=send_mensaje_alumno
+[2025-10-26 00:58:16] Action: none
+[2025-10-26 00:58:16] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:58:16] Action: none
+[2025-10-26 00:58:16] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:58:16] Action: none
+[2025-10-26 00:58:17] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:58:17] Action: none
+/eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:58:17] Action: none
+[2025-10-26 00:58:22] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:58:22] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:58:22] Action: none
+[2025-10-26 00:58:22] Action: none
+[2025-10-26 00:58:27] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:58:27] Action: none
+[2025-10-26 00:58:32] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 00:58:32] Action: none
+[2025-10-26 00:58:37] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 00:58:37] Action: none
+[2025-10-26 00:58:37] Action: none
+[2025-10-26 00:58:42] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 00:58:42] Action: none
+[2025-10-26 00:58:42] Action: none
+[2025-10-26 00:58:47] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:58:47] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:58:47] Action: none
+[2025-10-26 00:58:47] Action: none
+[2025-10-26 00:58:52] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:58:52] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:58:52] Action: none
+[2025-10-26 00:58:57] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:58:57] Action: none
+[2025-10-26 00:58:57] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:58:57] Action: none
+[2025-10-26 00:59:02] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:59:02] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:59:02] Action: none
+[2025-10-26 00:59:02] Action: none
+[2025-10-26 00:59:07] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 00:59:07] Action: none
+[2025-10-26 00:59:07] Action: none
+[2025-10-26 00:59:12] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:59:12] Action: none
+[2025-10-26 00:59:12] Action: none
+[2025-10-26 00:59:17] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:59:17] Action: none
+[2025-10-26 00:59:17] Action: none
+[2025-10-26 00:59:22] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:59:22] Action: none
+[2025-10-26 00:59:27] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:59:27] Action: none
+[2025-10-26 00:59:32] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:59:32] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:59:32] Action: none
+[2025-10-26 00:59:32] Action: none
+[2025-10-26 00:59:37] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:59:37] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:59:37] Action: none
+[2025-10-26 00:59:37] Action: none
+[2025-10-26 00:59:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 00:59:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 00:59:58] Action: none
+[2025-10-26 00:59:58] Action: none
+[2025-10-26 01:00:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:00:58] Action: none
+[2025-10-26 01:01:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 01:01:58] Action: none
+[2025-10-26 01:01:58] Action: none
+[2025-10-26 01:02:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:02:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:02:58] Action: none
+[2025-10-26 01:02:58] Action: none
+[2025-10-26 01:03:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:03:58] Action: none
+[2025-10-26 01:03:58] Action: none
+[2025-10-26 01:04:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:04:58] Action: none
+[2025-10-26 01:04:58] Action: none
+[2025-10-26 01:05:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:05:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:05:58] Action: none
+[2025-10-26 01:05:58] Action: none
+[2025-10-26 01:06:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:06:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:06:58] Action: none
+[2025-10-26 01:07:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 01:07:58] Action: none
+[2025-10-26 01:07:58] Action: none
+[2025-10-26 01:11:18] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:11:18] Action: none
+[2025-10-26 01:11:18] Action: none
+[2025-10-26 01:11:21] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:11:21] Action: none
+[2025-10-26 01:11:31] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:11:31] Action: none
+[2025-10-26 01:11:41] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:11:41] Action: none
+[2025-10-26 01:11:51] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:11:51] Action: none
+[2025-10-26 01:12:01] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:12:01] Action: none
+[2025-10-26 01:12:11] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:12:11] Action: none
+[2025-10-26 01:12:21] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:12:21] Action: none
+[2025-10-26 01:12:31] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:12:31] Action: none
+[2025-10-26 01:12:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:12:58] Action: none
+[2025-10-26 01:13:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:13:58] Action: none
+[2025-10-26 01:14:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:14:58] Action: none
+[2025-10-26 01:15:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:15:58] Action: none
+[2025-10-26 01:47:12] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:47:12] Action: none
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 01:47:14] Action: none
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=get_chat_history
+[2025-10-26 01:47:14] Action: none
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 01:47:14] Action: none
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 01:47:14] Action: none
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 01:47:14] Action: none
+[2025-10-26 01:47:14] Action: none
+[2025-10-26 01:47:14] Action: none
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 01:47:14] Action: none
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 01:47:14] Action: none
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 01:47:14] Action: none
+[2025-10-26 01:47:14] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:47:14] Action: none
+[2025-10-26 01:47:17] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:47:17] Action: none
+[2025-10-26 01:47:27] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:47:27] Action: none
+[2025-10-26 01:47:34] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:47:34] Action: none
+[2025-10-26 01:47:38] API Request: /eduguard/php/profesor_api.php?action=send_mensaje_alumno
+[2025-10-26 01:47:38] Action: none
+[2025-10-26 01:47:38] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:47:38] Action: none
+[2025-10-26 01:47:38] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:47:38] Action: none
+[2025-10-26 01:47:39] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:47:39] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:47:39] Action: none
+[2025-10-26 01:47:39] Action: none
+[2025-10-26 01:47:44] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:47:44] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:47:44] Action: none
+[2025-10-26 01:47:44] Action: none
+[2025-10-26 01:47:49] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:47:49] Action: none
+[2025-10-26 01:47:49] Action: none
+[2025-10-26 01:47:54] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:47:54] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:47:54] Action: none
+[2025-10-26 01:47:59] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:47:59] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:47:59] Action: none
+[2025-10-26 01:47:59] Action: none
+[2025-10-26 01:48:04] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:48:04] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:48:04] Action: none
+[2025-10-26 01:48:04] Action: none
+[2025-10-26 01:48:09] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 01:48:09] Action: none
+[2025-10-26 01:48:14] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:48:14] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:48:14] Action: none
+[2025-10-26 01:48:14] Action: none
+[2025-10-26 01:48:19] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:48:19] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:48:19] Action: none
+[2025-10-26 01:48:19] Action: none
+[2025-10-26 01:48:24] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:48:24] Action: none
+[2025-10-26 01:48:24] Action: none
+[2025-10-26 01:48:29] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:48:29] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:48:29] Action: none
+[2025-10-26 01:48:29] Action: none
+[2025-10-26 01:48:34] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:48:34] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:48:34] Action: none
+[2025-10-26 01:48:34] Action: none
+[2025-10-26 01:48:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:48:58] Action: none
+[2025-10-26 01:48:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:48:58] Action: none
+[2025-10-26 01:49:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:49:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:49:58] Action: none
+[2025-10-26 01:49:58] Action: none
+[2025-10-26 01:50:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:50:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:50:58] Action: none
+[2025-10-26 01:50:58] Action: none
+[2025-10-26 01:51:03] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:51:03] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:51:03] Action: none
+[2025-10-26 01:51:04] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 01:51:04] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:51:04] Action: none
+[2025-10-26 01:51:04] Action: none
+[2025-10-26 01:51:08] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:51:08] Action: none
+[2025-10-26 01:51:18] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:51:18] Action: none
+[2025-10-26 01:51:28] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:51:28] Action: none
+[2025-10-26 01:51:38] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:51:38] Action: none
+[2025-10-26 01:51:48] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:51:48] Action: none
+[2025-10-26 01:51:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:51:58] Action: none
+[2025-10-26 01:52:08] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:52:08] Action: none
+[2025-10-26 01:52:18] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:52:18] Action: none
+[2025-10-26 01:52:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:52:58] Action: none
+[2025-10-26 01:53:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:53:58] Action: none
+[2025-10-26 01:54:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:54:58] Action: none
+[2025-10-26 01:55:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:55:58] Action: none
+[2025-10-26 01:59:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 01:59:58] Action: none
+[2025-10-26 02:00:08] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:00:08] Action: none
+[2025-10-26 02:00:18] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:00:18] Action: none
+[2025-10-26 02:00:28] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:00:28] Action: none
+[2025-10-26 02:00:38] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:00:38] Action: none
+[2025-10-26 02:00:48] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:00:48] Action: none
+[2025-10-26 02:00:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:00:58] Action: none
+[2025-10-26 02:01:08] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:01:08] Action: none
+[2025-10-26 02:01:18] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:01:18] Action: none
+[2025-10-26 02:01:28] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:01:28] Action: none
+[2025-10-26 02:01:38] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:01:38] Action: none
+[2025-10-26 02:01:39] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=9
+[2025-10-26 02:01:39] Action: none
+[2025-10-26 02:01:39] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:01:39] Action: none
+[2025-10-26 02:01:43] API Request: /eduguard/php/profesor_api.php?action=send_mensaje_alumno
+[2025-10-26 02:01:43] Action: none
+[2025-10-26 02:01:43] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:01:43] Action: none
+[2025-10-26 02:01:43] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:01:43] Action: none
+[2025-10-26 02:01:44] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:01:44] Action: none
+[2025-10-26 02:01:44] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:01:44] Action: none
+[2025-10-26 02:01:49] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:01:49] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:01:49] Action: none
+[2025-10-26 02:01:49] Action: none
+[2025-10-26 02:01:54] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:01:54] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:01:54] Action: none
+[2025-10-26 02:01:54] Action: none
+[2025-10-26 02:01:59] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:01:59] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:01:59] Action: none
+[2025-10-26 02:01:59] Action: none
+[2025-10-26 02:02:00] API Request: /eduguard/php/profesor_api.php?action=send_mensaje_alumno
+[2025-10-26 02:02:00] Action: none
+[2025-10-26 02:02:00] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:02:00] Action: none
+[2025-10-26 02:02:00] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:02:00] Action: none
+[2025-10-26 02:02:04] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:02:04] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:02:04] Action: none
+[2025-10-26 02:02:09] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:02:09] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:02:09] Action: none
+[2025-10-26 02:02:09] Action: none
+[2025-10-26 02:02:14] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:02:14] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:02:14] Action: none
+[2025-10-26 02:02:14] Action: none
+[2025-10-26 02:02:19] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:02:19] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:02:19] Action: none
+[2025-10-26 02:02:19] Action: none
+[2025-10-26 02:02:24] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 02:02:24] Action: none
+[2025-10-26 02:02:24] Action: none
+[2025-10-26 02:02:29] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:02:29] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:02:29] Action: none
+[2025-10-26 02:02:29] Action: none
+[2025-10-26 02:02:34] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:02:34] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:02:34] Action: none
+[2025-10-26 02:02:34] Action: none
+[2025-10-26 02:02:39] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:02:39] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:02:39] Action: none
+[2025-10-26 02:02:44] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:02:44] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:02:44] Action: none
+[2025-10-26 02:02:44] Action: none
+[2025-10-26 02:02:49] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 02:02:49] Action: none
+[2025-10-26 02:02:49] Action: none
+[2025-10-26 02:02:54] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:02:54] Action: none
+[2025-10-26 02:02:59] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:02:59] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:02:59] Action: none
+[2025-10-26 02:02:59] Action: none
+[2025-10-26 02:03:04] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:03:04] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:03:04] Action: none
+[2025-10-26 02:03:04] Action: none
+[2025-10-26 02:03:09] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:03:09] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:03:09] Action: none
+[2025-10-26 02:03:09] Action: none
+[2025-10-26 02:03:14] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:03:14] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:03:14] Action: none
+[2025-10-26 02:03:14] Action: none
+[2025-10-26 02:03:19] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:03:19] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:03:19] Action: none
+[2025-10-26 02:03:24] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:03:24] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:03:24] Action: none
+[2025-10-26 02:03:24] Action: none
+[2025-10-26 02:03:29] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 02:03:29] Action: none
+[2025-10-26 02:03:29] Action: none
+[2025-10-26 02:03:34] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:03:34] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:03:34] Action: none
+[2025-10-26 02:03:34] Action: none
+[2025-10-26 02:03:39] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:03:39] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:03:39] Action: none
+[2025-10-26 02:03:39] Action: none
+[2025-10-26 02:03:44] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 02:03:44] Action: none
+[2025-10-26 02:03:49] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 02:03:49] Action: none
+[2025-10-26 02:03:54] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:03:54] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:03:54] Action: none
+[2025-10-26 02:03:54] Action: none
+[2025-10-26 02:03:59] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:03:59] Action: none
+[2025-10-26 02:04:04] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:04:04] Action: none
+[2025-10-26 02:04:04] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:04:04] Action: none
+[2025-10-26 02:04:09] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:04:09] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:04:09] Action: none
+[2025-10-26 02:04:09] Action: none
+[2025-10-26 02:04:14] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 02:04:14] Action: none
+[2025-10-26 02:04:14] Action: none
+[2025-10-26 02:04:19] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:04:19] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:04:19] Action: none
+[2025-10-26 02:04:24] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:04:24] Action: none
+/eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:04:24] Action: none
+[2025-10-26 02:04:29] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:04:29] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:04:29] Action: none
+[2025-10-26 02:04:29] Action: none
+[2025-10-26 02:04:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:04:58] Action: none
+[2025-10-26 02:05:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:05:58] Action: none
+[2025-10-26 02:05:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:05:58] Action: none
+[2025-10-26 02:06:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:06:58] Action: none
+[2025-10-26 02:06:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:06:58] Action: none
+[2025-10-26 02:07:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:07:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:07:58] Action: none
+[2025-10-26 02:07:58] Action: none
+[2025-10-26 02:57:32] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:57:32] Action: none
+[2025-10-26 02:57:32] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:57:32] Action: none
+[2025-10-26 02:57:34] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:57:34] Action: none
+[2025-10-26 02:57:34] Action: none
+[2025-10-26 02:57:39] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:57:39] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:57:39] Action: none
+[2025-10-26 02:57:39] Action: none
+[2025-10-26 02:57:44] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:57:44] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:57:44] Action: none
+[2025-10-26 02:57:44] Action: none
+[2025-10-26 02:57:49] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:57:49] Action: none
+[2025-10-26 02:57:49] Action: none
+[2025-10-26 02:57:54] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:57:54] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:57:54] Action: none
+[2025-10-26 02:57:54] Action: none
+[2025-10-26 02:57:59] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:57:59] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:57:59] Action: none
+[2025-10-26 02:57:59] Action: none
+[2025-10-26 02:58:04] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:58:04] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:58:04] Action: none
+[2025-10-26 02:58:04] Action: none
+[2025-10-26 02:58:09] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:58:09] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:58:09] Action: none
+[2025-10-26 02:58:09] Action: none
+[2025-10-26 02:58:14] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:58:14] Action: none
+[2025-10-26 02:58:19] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:58:19] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:58:19] Action: none
+[2025-10-26 02:58:19] Action: none
+[2025-10-26 02:58:24] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:58:24] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:58:24] Action: none
+[2025-10-26 02:58:24] Action: none
+[2025-10-26 02:58:29] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:58:29] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:58:29] Action: none
+[2025-10-26 02:58:29] Action: none
+[2025-10-26 02:58:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:58:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:58:58] Action: none
+[2025-10-26 02:58:58] Action: none
+[2025-10-26 02:59:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 02:59:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 02:59:58] Action: none
+[2025-10-26 02:59:58] Action: none
+[2025-10-26 03:00:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 03:00:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 03:00:58] Action: none
+[2025-10-26 03:01:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 03:01:58] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 03:01:58] Action: none
+[2025-10-26 03:01:58] Action: none
+[2025-10-26 03:11:06] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 03:11:06] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 03:11:06] Action: none
+[2025-10-26 03:11:09] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 03:11:09] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 03:11:09] Action: none
+[2025-10-26 03:11:18] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes&materia_id=7
+[2025-10-26 03:11:18] Action: none
+[2025-10-26 03:11:44] API Request: /eduguard/php/profesor_api.php?action=save_nota
+[2025-10-26 03:11:44] Action: none
+[2025-10-26 03:11:44] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 03:11:44] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 03:11:44] Action: none
+[2025-10-26 03:11:44] Action: none
+[2025-10-26 03:15:58] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 03:15:58] API Request: /eduguard/php/profesor_api.php?action=get_chat_history
+[2025-10-26 03:15:58] Action: none
+[2025-10-26 03:15:58] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 03:15:58] Action: none
+[2025-10-26 03:15:58] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 03:15:58] Action: none
+[2025-10-26 03:15:58] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 03:15:58] API Request: /eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 03:15:58] Action: none
+[2025-10-26 03:15:58] Action: none
+[2025-10-26 03:15:58] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 03:15:58] Action: none
+[2025-10-26 03:15:58] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 03:15:58] Action: none
+[2025-10-26 03:15:58] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 03:15:58] Action: none
+[2025-10-26 03:15:58] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 03:15:58] Action: none
+[2025-10-26 03:15:58] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 03:15:58] Action: none
+[2025-10-26 03:16:29] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes&materia_id=7
+[2025-10-26 03:16:29] Action: none
+[2025-10-26 03:16:36] API Request: /eduguard/php/profesor_api.php?action=save_nota
+[2025-10-26 03:16:36] Action: none
+[2025-10-26 03:16:36] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 03:16:36] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 03:16:36] Action: none
+[2025-10-26 03:16:36] Action: none
+[2025-10-26 03:17:22] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes&materia_id=7
+[2025-10-26 03:17:22] Action: none
+[2025-10-26 03:17:36] API Request: /eduguard/php/profesor_api.php?action=save_nota
+[2025-10-26 03:17:36] Action: none
+[2025-10-26 03:17:36] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 03:17:36] Action: none
+[2025-10-26 03:17:36] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 03:17:36] Action: none
+[2025-10-26 03:19:19] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes&materia_id=7
+[2025-10-26 03:19:19] Action: none
+[2025-10-26 03:19:33] API Request: /eduguard/php/profesor_api.php?action=save_nota
+[2025-10-26 03:19:33] Action: none
+[2025-10-26 03:19:33] API Request: /eduguard/php/profesor_api.php?action=get_stats
+recientes
+[2025-10-26 03:19:33] Action: none
+[2025-10-26 03:19:33] Action: none
+[2025-10-26 03:36:44] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes&materia_id=7
+[2025-10-26 03:36:44] Action: none
+[2025-10-26 03:36:57] API Request: /eduguard/php/profesor_api.php?action=save_nota
+[2025-10-26 03:36:57] Action: none
+[2025-10-26 03:36:57] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 03:36:57] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 03:36:57] Action: none
+[2025-10-26 04:11:46] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 04:11:46] Action: none
+[2025-10-26 04:11:46] API Request: /eduguard/php/profesor_api.php?action=get_chat_history
+[2025-10-26 04:11:46] Action: none
+[2025-10-26 04:11:46] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 04:11:46] Action: none
+[2025-10-26 04:11:46] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 04:11:46] API Request: [2025-10-26 04:11:46] API Request: /eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 04:11:46] Action: none
+[2025-10-26 04:11:46] Action: none
+[2025-10-26 04:11:46] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 04:11:46] Action: none
+[2025-10-26 04:11:46] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 04:11:46] Action: none
+[2025-10-26 04:11:46] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 04:11:46] Action: none
+[2025-10-26 04:11:46] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 04:11:46] Action: none
+[2025-10-26 04:11:46] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 04:11:46] Action: none
+[2025-10-26 04:11:46] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:11:46] Action: none
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=get_chat_history
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:14:07] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:14:07] Action: none
+[2025-10-26 04:16:05] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 04:16:05] Action: none
+[2025-10-26 04:16:05] API Request: /eduguard/php/profesor_api.php?action=get_chat_history
+[2025-10-26 04:16:05] Action: none
+[2025-10-26 04:16:05] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 04:16:05] Action: none
+[2025-10-26 04:16:05] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 04:16:05] Action: none
+[2025-10-26 04:16:05] API Request: /eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 04:16:05] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 04:16:05] Action: none
+[2025-10-26 04:16:05] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 04:16:05] Action: none
+[2025-10-26 04:16:05] Action: none
+[2025-10-26 04:16:05] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 04:16:05] Action: none
+[2025-10-26 04:16:05] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 04:16:05] Action: none
+[2025-10-26 04:16:05] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 04:16:05] Action: none
+[2025-10-26 04:16:05] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:16:05] Action: none
+[2025-10-26 04:16:47] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 04:16:47] Action: none
+/eduguard/php/profesor_api.php?action=get_chat_history
+[2025-10-26 04:16:47] Action: none
+[2025-10-26 04:16:47] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 04:16:47] Action: none
+[2025-10-26 04:16:47] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 04:16:47] Action: none
+[2025-10-26 04:16:47] API Request: /eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 04:16:47] Action: none
+[2025-10-26 04:16:47] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 04:16:47] Action: none
+[2025-10-26 04:16:47] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 04:16:47] Action: none
+[2025-10-26 04:16:47] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 04:16:47] Action: none
+[2025-10-26 04:16:47] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 04:16:47] Action: none
+[2025-10-26 04:16:47] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 04:16:47] Action: none
+[2025-10-26 04:16:47] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 04:16:47] Action: none
+[2025-10-26 04:16:47] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:16:47] Action: none
+[2025-10-26 04:17:24] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:17:24] Action: none
+[2025-10-26 04:17:30] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:17:30] Action: none
+[2025-10-26 04:17:40] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:17:40] Action: none
+[2025-10-26 04:19:30] API Request: /eduguard/php/profesor_api.php?action=verificar_sesion
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:30] API Request: /eduguard/php/profesor_api.php?action=get_chat_history
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:30] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:30] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:30] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 04:19:30] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:30] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:30] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:30] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:30] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:30] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:19:30] Action: none
+[2025-10-26 04:19:49] API Request: /eduguard/php/profesor_api.php?action=get_chat_history
+[2025-10-26 04:19:49] Action: none
+[2025-10-26 04:19:49] Action: none
+[2025-10-26 04:19:50] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 04:19:50] Action: none
+[2025-10-26 04:19:50] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 04:19:50] Action: none
+[2025-10-26 04:19:50] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+tes
+[2025-10-26 04:19:50] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 04:19:50] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+[2025-10-26 04:19:50] Action: none
+[2025-10-26 04:19:50] Action: none
+[2025-10-26 04:19:50] Action: none
+[2025-10-26 04:19:50] Action: none
+[2025-10-26 04:19:50] API Request: /eduguard/php/profesor_api.php?action=get_anuncios
+[2025-10-26 04:19:50] Action: none
+[2025-10-26 04:19:50] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 04:19:50] Action: none
+[2025-10-26 04:19:50] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 04:19:50] Action: none
+[2025-10-26 04:19:50] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:19:50] Action: none
+[2025-10-26 04:20:40] API Request: /eduguard/php/profesor_api.php?action=get_chat_history
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:40] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:40] API Request: /eduguard/php/profesor_api.php?action=get_all_estudiantes
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:40] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 04:20:40] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:40] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:40] API Request: /eduguard/php/profesor_api.php?action=get_grupos
+s
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:40] API Request: /eduguard/php/profesor_api.php?action=get_materiales
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:40] API Request: /eduguard/php/profesor_api.php?action=get_chart_data
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:40] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:20:40] Action: none
+[2025-10-26 04:20:52] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes&materia_id=7
+[2025-10-26 04:20:52] Action: none
+[2025-10-26 04:21:16] API Request: /eduguard/php/profesor_api.php?action=save_nota
+[2025-10-26 04:21:16] Action: none
+[2025-10-26 04:21:16] API Request: /eduguard/php/profesor_api.php?action=get_stats
+recientes
+[2025-10-26 04:21:16] Action: none
+[2025-10-26 04:21:16] Action: none
+[2025-10-26 04:22:52] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:22:52] Action: none
+[2025-10-26 04:22:54] API Request: /eduguard/php/profesor_api.php?action=get_mensajes_alumno&alumno_id=8
+[2025-10-26 04:22:54] Action: none
+[2025-10-26 04:22:59] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+id=8
+[2025-10-26 04:22:59] Action: none
+[2025-10-26 04:23:33] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:23:33] Action: none
+[2025-10-26 04:36:33] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:36:33] Action: none
+[2025-10-26 04:36:36] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:36:36] Action: none
+[2025-10-26 04:36:46] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:36:46] Action: none
+[2025-10-26 04:36:56] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:36:56] Action: none
+[2025-10-26 04:37:06] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:37:06] Action: none
+[2025-10-26 04:37:16] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:37:16] Action: none
+[2025-10-26 04:37:26] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:37:26] Action: none
+[2025-10-26 04:37:36] API Request: /eduguard/php/profesor_api.php?action=get_conversaciones_alumnos
+[2025-10-26 04:37:36] Action: none
+[2025-10-26 04:38:30] API Request: /eduguard/php/profesor_api.php?action=create_materia
+[2025-10-26 04:38:30] Action: none
+[2025-10-26 04:38:30] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 04:38:30] Action: none
+[2025-10-26 04:38:30] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 04:38:30] Action: none
+[2025-10-26 04:38:40] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes&materia_id=8
+[2025-10-26 04:38:40] Action: none
+[2025-10-26 04:38:56] API Request: /eduguard/php/profesor_api.php?action=add_estudiantes_to_materia
+[2025-10-26 04:38:56] Action: none
+[2025-10-26 04:38:56] API Request: /eduguard/php/profesor_api.php?action=get_materias
+[2025-10-26 04:38:56] Action: none
+[2025-10-26 04:38:56] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes
+[2025-10-26 04:38:56] Action: none
+[2025-10-26 04:38:56] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 04:38:56] Action: none
+[2025-10-26 04:39:01] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes&materia_id=8
+[2025-10-26 04:39:01] Action: none
+[2025-10-26 04:41:25] API Request: /eduguard/php/profesor_api.php?action=save_nota
+[2025-10-26 04:41:25] Action: none
+[2025-10-26 04:41:25] API Request: /eduguard/php/profesor_api.php?action=get_notas_recientes
+[2025-10-26 04:41:25] API Request: /eduguard/php/profesor_api.php?action=get_stats
+[2025-10-26 04:41:25] Action: none
+[2025-10-26 04:41:25] Action: none
+[2025-10-26 04:41:34] API Request: /eduguard/php/profesor_api.php?action=get_estudiantes&materia_id=8
+[2025-10-26 04:41:34] Action: none
